@@ -1,0 +1,4 @@
+~ = 'represent curren home folder
+cd = 'change directory'
+ls = 'list items in directory'
+cd 
